@@ -19,3 +19,8 @@ header {
     padding-bottom: 10px;
     overflow: hidden;
 }
+.dropdown-menu {
+    padding-right: 15px;
+    display:inline-block;
+    font-family:'Roboto', sans-serif;
+}
