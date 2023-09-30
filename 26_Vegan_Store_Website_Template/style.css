@@ -26,3 +26,16 @@ header {
     font-size: 14px;
     font-weight: 600;
 }
+.dropdown-menu:hover .dropdown {
+    display: block;
+}
+
+.dropdown-menu:hover .dropdown2 {
+    display: block;
+}
+
+.dropdown {
+    width: 150px;
+    background-color: white;
+    box-shadow: 0 2px 5px #ccc;
+}
