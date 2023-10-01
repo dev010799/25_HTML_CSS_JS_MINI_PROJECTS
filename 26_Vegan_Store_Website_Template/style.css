@@ -228,3 +228,7 @@ flex-item i {
     letter-spacing: 0.5px;
     line-height: 1.6;
 }
+
+#flex-1 {
+    background-color:#5acda6; 
+}
