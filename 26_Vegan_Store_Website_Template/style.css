@@ -149,5 +149,7 @@ header {
 
 #banner-text h1 {
     width: 100%;
+    max-width: 70%;
+
 
 }
