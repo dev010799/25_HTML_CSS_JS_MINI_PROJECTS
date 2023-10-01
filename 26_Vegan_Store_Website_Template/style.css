@@ -150,6 +150,9 @@ header {
 #banner-text h1 {
     width: 100%;
     max-width: 70%;
+    text-align: center;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
 
 
 }
