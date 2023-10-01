@@ -165,4 +165,7 @@ header {
     color: #8b8b99;
     text-align: center;
     padding-top: 20px;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+    font-weight: 400;
 }
