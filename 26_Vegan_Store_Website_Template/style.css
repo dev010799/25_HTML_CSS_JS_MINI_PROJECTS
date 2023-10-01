@@ -76,3 +76,7 @@ header {
     cursor: pointer;
 }
 
+#top-nav ul {
+    float: right;
+}
+
