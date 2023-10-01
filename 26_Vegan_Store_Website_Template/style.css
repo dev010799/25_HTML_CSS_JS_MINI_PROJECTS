@@ -47,3 +47,12 @@ header {
     display: none;
 }
 
+.dropdown2 {
+    width: 150px;
+    background-color: white;
+    box-shadow: 0 2px 5px #ccc;
+    border-top: 2px solid rgb(170, 210, 54);
+    padding: 20px;
+
+}
+
