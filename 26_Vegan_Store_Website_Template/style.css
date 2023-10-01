@@ -198,3 +198,9 @@ header {
     flex-direction: row;
     background-color: DodgerBlue;
 }
+
+.flex>div {
+    width: 25%;
+    text-align: center;
+    color: white;
+}
