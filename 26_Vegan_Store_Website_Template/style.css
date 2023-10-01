@@ -260,4 +260,6 @@ flex-item i {
 #section-2 {
     width: 100%;
     background-color:  #f7eee2;
+    padding-top: 75px;
+    padding-bottom: 75px;
 }
