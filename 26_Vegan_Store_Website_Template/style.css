@@ -206,3 +206,13 @@ header {
     padding: 112px 48px;
     box-sizing: border-box;
 }
+
+flex-item i {
+    font-size: 80px;
+    transition: all 0.3s;
+}
+
+.flex-item:hover i{
+    transform: scale(1.1, 1.1);
+
+}
