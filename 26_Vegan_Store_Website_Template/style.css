@@ -60,3 +60,11 @@ header {
     display: none;
 }
 
+.dropdown2 a {
+    border-bottom: 1px solid #ccc;
+    padding: 4px;
+    text-decoration: none;
+    display: block;
+    
+}
+
