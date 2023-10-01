@@ -254,3 +254,10 @@ flex-item i {
         width: 100%;
     }
 }
+
+/*----------Section-2-------------*/
+
+#section-2 {
+    width: 100%;
+    background-color:  #f7eee2;
+}
