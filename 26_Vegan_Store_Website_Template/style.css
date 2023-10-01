@@ -289,3 +289,14 @@ flex-item i {
     margin-bottom: 40px;
 }
 
+#items {
+    width: 100%;
+    max-width: 80%;
+    display: flex;
+    margin: 0 auto;
+}
+
+.item {
+    width:25%;
+    text-align: center;
+}
