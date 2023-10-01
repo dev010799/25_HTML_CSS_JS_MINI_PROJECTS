@@ -94,5 +94,8 @@ header {
     font-size: 14px;
     text-align: center;
     margin-right: 50px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
 }
 
