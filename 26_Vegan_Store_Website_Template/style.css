@@ -65,6 +65,14 @@ header {
     padding: 4px;
     text-decoration: none;
     display: block;
-    display: cursor;  
+    cursor: pointer;  
+}
+
+.dropdown a {
+    border-bottom: 1px solid #ccc;
+    padding: 4px;
+    text-decoration: none;
+    display: block;
+    cursor: pointer;
 }
 
