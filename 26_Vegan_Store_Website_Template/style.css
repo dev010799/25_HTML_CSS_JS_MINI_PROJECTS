@@ -78,5 +78,6 @@ header {
 
 #top-nav ul {
     float: right;
+    list-style-type: none;
 }
 
