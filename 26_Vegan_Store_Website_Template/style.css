@@ -279,3 +279,13 @@ flex-item i {
     margin: 0;
     margin-bottom: 4px;
 }
+
+#title {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color: #8b8b99;
+    letter-spacing: 0.5px;
+    margin-bottom: 40px;
+}
+
