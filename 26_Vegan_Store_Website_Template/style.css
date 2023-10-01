@@ -146,3 +146,8 @@ header {
     justify-content: center;
     align-items: center;
 }
+
+#banner-text h1 {
+    width: 100%;
+
+}
