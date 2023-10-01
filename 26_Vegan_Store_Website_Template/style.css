@@ -266,5 +266,12 @@ flex-item i {
 
 #heading {
     color: #91ac41;
+    font-size: 24px;
+    font-family: 'Caveat', cursive;
+    margin: 0;
+    margin-top: 20px;
+
+    
+   
 
 }
