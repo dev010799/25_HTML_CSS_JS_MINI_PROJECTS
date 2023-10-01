@@ -101,5 +101,9 @@ header {
 
 #top-nav .top-button {
     padding: 9px 34px;
+    border: 0px;
+    border-radius: 4px;
+    margin-right: 30px;
+    cursor: pointer;
 }
 
