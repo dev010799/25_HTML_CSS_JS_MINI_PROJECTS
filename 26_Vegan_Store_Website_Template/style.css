@@ -128,3 +128,12 @@ header {
         display: none;
     }
 }
+
+/*---------------------Banner-Section-------------------------------*/
+#banner {
+    background-image: url('https://i.imgur.com/5xAkZg9.jpg');
+    width: 100%;
+    height: 100vh;
+
+
+}
