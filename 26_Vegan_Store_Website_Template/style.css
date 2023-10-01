@@ -105,5 +105,8 @@ header {
     border-radius: 4px;
     margin-right: 30px;
     cursor: pointer;
+    font-size: 12px;
+    font-weight: 600;
+    color: white;
 }
 
