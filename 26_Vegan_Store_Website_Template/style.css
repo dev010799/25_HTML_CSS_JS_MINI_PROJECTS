@@ -203,4 +203,6 @@ header {
     width: 25%;
     text-align: center;
     color: white;
+    padding: 112px 48px;
+    box-sizing: border-box;
 }
