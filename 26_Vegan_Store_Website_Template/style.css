@@ -158,3 +158,8 @@ header {
     letter-spacing: 8.8px;
     line-height: 1.2;
 }
+
+#banner-text p {
+    width: 100%;
+    max-width: 60%;
+}
