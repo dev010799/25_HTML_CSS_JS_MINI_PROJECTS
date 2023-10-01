@@ -244,3 +244,13 @@ flex-item i {
 #flex-4 {
     background-color: #f69dad;
 }
+
+@media(max-width: 720px) {
+    .flex {
+        width: 100%;
+        flex-direction: column;
+    }
+    .flex>div {
+        width: 100%;
+    }
+}
