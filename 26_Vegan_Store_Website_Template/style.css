@@ -108,5 +108,7 @@ header {
     font-size: 12px;
     font-weight: 600;
     color: white;
+    outline: none;
+    background-color: rgb(170, 210, 54);
 }
 
