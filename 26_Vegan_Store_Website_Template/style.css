@@ -187,3 +187,12 @@ header {
         font-size: 15px;
     }
 }
+
+/*-----------section-1-----------------*/
+#section-1 {
+    width: 100%;
+}
+
+.flex {
+    display: flex;
+}
