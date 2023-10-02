@@ -351,3 +351,9 @@ flex-item i {
 
 /*----------Section-3(Testimonial)-------------*/
 
+#section-3 {
+    width: 100%;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    text-align: center;
+}
