@@ -412,5 +412,13 @@ flex-item i {
 
 .section3-item img {
     width: 80px;
-    
+    margin-bottom: 25px;
+    border-radius: 50%;
+}
+
+.desc {
+    font-size: 14px;
+    color:  #8b8b99; 
+    letter-spacing: 0.5px;
+    font-style: italic;
 }
