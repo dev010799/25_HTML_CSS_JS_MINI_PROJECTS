@@ -512,6 +512,18 @@ flex-item i {
     display: block;
 }
 
+#btn {
+    margin-top: 16px;
+    padding: 16px;
+    font-size: 14px;
+    font-weight: 600;
+    border-radius: 4px;
+    cursor: pointer;
+    color: white;
+    border: 0;
+    background-color: #f69dad;
+}
+
 
 
 
