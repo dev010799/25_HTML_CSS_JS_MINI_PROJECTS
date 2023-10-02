@@ -358,3 +358,15 @@ flex-item i {
     text-align: center;
     background: #5acda6;
 }
+
+#section3-heading {
+    color: #91ac41;
+    font-size: 24px;
+    font-family: 'Caveat',cursive;
+    margin: 0;
+    margin-top: 35px;
+}
+
+#section-3>h3 {
+    font-size: 44px;
+}
