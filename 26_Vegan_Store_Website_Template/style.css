@@ -319,3 +319,15 @@ flex-item i {
     font-size: 50px;
 }
 
+.item h3 {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.item p {
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+    color: #8b8b99;
+}
+
