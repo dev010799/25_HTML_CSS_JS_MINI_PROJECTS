@@ -315,4 +315,7 @@ flex-item i {
     transform: scale(1.1, 1.1);
 }
 
+.icon i {
+    font-size: 50px;
+}
 
