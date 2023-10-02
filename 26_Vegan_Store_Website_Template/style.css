@@ -407,4 +407,5 @@ flex-item i {
     color: white;
     background: #f69dad;
     transition: 1.0s ease;
+    box-shadow: 0 12px 16px 0 rgba(39, 39, 47, 0.06);
 }
