@@ -380,4 +380,13 @@ flex-item i {
     font-weight: 500;
     margin: 0 auto;
     color: #8b8b99; 
+    letter-spacing: 0.5px;
+    margin-bottom: 55px;
+}
+
+#testimonials {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    display: flex;
 }
