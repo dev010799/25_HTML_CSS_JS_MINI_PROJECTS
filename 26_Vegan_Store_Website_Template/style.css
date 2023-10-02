@@ -389,4 +389,9 @@ flex-item i {
     max-width: 1140px;
     margin: 0 auto;
     display: flex;
+    align-items: center;
+}
+
+.section3-item {
+    width: 25%;
 }
