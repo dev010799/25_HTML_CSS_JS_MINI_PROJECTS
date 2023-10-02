@@ -301,3 +301,11 @@ flex-item i {
     text-align: center;
     padding: 24px;
 }
+
+.icon {
+    display: inline-block;
+    background-color: #e3b375;
+    border-radius: 50%;
+    padding: 40px;
+    color: white;
+}
