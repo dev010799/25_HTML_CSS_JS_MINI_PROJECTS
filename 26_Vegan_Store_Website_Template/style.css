@@ -396,4 +396,13 @@ flex-item i {
     width: 25%;
     text-align: center;
     background-color: #f5f6fb;
+    padding: 40px 30px;
+    margin: 16px;
+    border-top-left-radius: 45px;
+    border-bottom-right-radius: 45px;
+    transition: box-shadow 0.3s;
+}
+
+.section3-item:hover {
+    color: white;
 }
