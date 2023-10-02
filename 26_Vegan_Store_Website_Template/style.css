@@ -571,11 +571,13 @@ flex-item i {
         border: 2px solid #f69dad;
         background-color: transparent;
     }
-
-
 }
 
+/*----------Section-5(Clients)-------------*/
 
-
+#section-5 {
+    width: 100%;
+    background-color: #f6fcfa;
+}
 
 
