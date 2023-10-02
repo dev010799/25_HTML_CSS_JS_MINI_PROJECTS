@@ -480,4 +480,6 @@ flex-item i {
 #follow-text {
     width: 100%;
     max-width: 80%;
+    padding-top: 140px;
+    margin: 0 auto;
 }
