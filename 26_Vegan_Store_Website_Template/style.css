@@ -331,3 +331,23 @@ flex-item i {
     color: #8b8b99;
 }
 
+@media(max-width: 720px) {
+    #section-2 {
+        padding: 10px;
+        box-sizing: border-box;
+    }
+    #section-2>h3 {
+        font-size: 20px;
+    }
+    #items {
+        flex-direction: column;
+        text-align: center;
+    }
+    .item {
+        width: 100%;
+        box-sizing: border-box;
+    }
+}
+
+/*----------Section-3(Testimonial)-------------*/
+
