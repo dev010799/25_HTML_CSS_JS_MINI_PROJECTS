@@ -473,4 +473,11 @@ flex-item i {
     margin: 0;
     display: inline-block;
     background-image: url('https://edyoda.s3.ap-south-1.amazonaws.com/public/strawberry-white.png');
+    background-position: left;
+    background-size: cover;
+}
+
+#follow-text {
+    width: 100%;
+    max-width: 80%;
 }
