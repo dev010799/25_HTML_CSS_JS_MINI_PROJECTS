@@ -580,4 +580,11 @@ flex-item i {
     background-color: #f6fcfa;
 }
 
+#section5 {
+    width: 100%;
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 100px 0;
 
+
+}
