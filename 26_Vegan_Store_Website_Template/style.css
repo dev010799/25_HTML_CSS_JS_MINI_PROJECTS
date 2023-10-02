@@ -394,4 +394,6 @@ flex-item i {
 
 .section3-item {
     width: 25%;
+    text-align: center;
+    background-color: #f5f6fb;
 }
