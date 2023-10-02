@@ -484,3 +484,9 @@ flex-item i {
     margin: 0 auto;
     text-align: center;
 }
+
+#follow-text {
+    font-size: 40px;
+    font-weight: 600;
+    margin: 10px;
+}
