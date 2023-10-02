@@ -451,3 +451,13 @@ flex-item i {
         font-size: important 18px;
     }
 }
+
+/*----------Section-4(Follow-us)-------------*/
+
+#section-4 {
+    display: flex;
+}
+
+#section4-banner {
+    width: 67%;
+}
