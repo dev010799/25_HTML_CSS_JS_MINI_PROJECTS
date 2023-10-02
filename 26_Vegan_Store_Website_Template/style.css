@@ -460,4 +460,11 @@ flex-item i {
 
 #section4-banner {
     width: 67%;
+    display: inline-block;
+    margin: 0;
+}
+
+#section4-banner img{
+    width: 100%;
+
 }
