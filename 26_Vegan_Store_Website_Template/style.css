@@ -530,6 +530,51 @@ flex-item i {
     background-color: transparent;
 }
 
+@media (max-width: 720px) {
+    #section-4 {
+        flex-direction: column;
+    }
+    #section4-banner {
+        width: 100%;
+    }
+    #section4-follow {
+        width: 100%;
+    }
+    #follow-text {
+        padding-top: 40px;
+        width: 100%;
+    }
+
+    #follow-text h3{
+        padding-top: 40px;
+        width: 100%;
+    }
+    #follow-text p {
+        font-size: 15px;
+    }
+    #email {
+        margin-top: 20px;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    #btn {
+        font-size: 15px;
+        font-weight: bold;
+        padding: 10px 10px;
+        margin-bottom: 10px;
+    }
+    #btn:hover {
+        font-size: 15px;
+        font-weight: bold;
+        padding: 10px 10px;
+        color: #f69dad;
+        border: 2px solid #f69dad;
+        background-color: transparent;
+    }
+
+
+}
+
 
 
 
