@@ -588,3 +588,8 @@ flex-item i {
     text-align: center;
     display: flex;
 }
+
+.section5-item {
+    width: 25%;
+    padding: 0 60px;
+}
