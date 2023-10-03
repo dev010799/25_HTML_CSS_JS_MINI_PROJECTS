@@ -723,3 +723,21 @@ flex-item i {
     color: #8b8b99;
     letter-spacing: 0.5px;
 }
+
+.left-heading {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0;
+    margin-top: 32px;
+}
+
+.left-lines {
+    font-size: 16px;
+    font-weight: 400;
+    color: #8b8b99;
+    letter-spacing: 0.5px;
+    line-height: 2;
+    margin: 0;
+}
+
+
