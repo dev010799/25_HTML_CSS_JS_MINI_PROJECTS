@@ -813,5 +813,8 @@ footer {
     padding-bottom: 30px;
     background-color: #232323;
     color: white;
-    
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    text-align: center;
+
 }
