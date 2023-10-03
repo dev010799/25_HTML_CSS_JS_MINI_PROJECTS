@@ -740,4 +740,12 @@ flex-item i {
     margin: 0;
 }
 
-
+.input-box {
+    width: 100%;
+    padding: 14px;
+    font-size: 14px;
+    color: #8b8b99;
+    border-radius: 4px;
+    border: 1px solid #e5e6ec ;
+    box-sizing: border-box;
+}
