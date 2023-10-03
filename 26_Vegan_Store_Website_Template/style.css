@@ -593,3 +593,9 @@ flex-item i {
     width: 25%;
     padding: 0 60px;
 }
+
+.section5-item h3 {
+    font-size: 45px;
+    font-weight: 600;
+    margin: 0;
+}
