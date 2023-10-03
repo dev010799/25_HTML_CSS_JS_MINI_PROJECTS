@@ -708,5 +708,11 @@ flex-item i {
     color: #91ac41;
     font-size: 20px;
     font-family: 'Caveat', cursive;
+    margin: 0;
+}
 
+.heading {
+    font-weight: 600;
+    font-size: 44px;
+    margin: 0;
 }
