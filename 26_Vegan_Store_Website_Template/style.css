@@ -647,3 +647,18 @@ flex-item i {
     margin: 0 auto;
     text-align: center;
 }
+
+#video-controller {
+    width: 100px;
+    display: inline-block;
+    height: 1px;
+    background-color: #e4b476;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#section-6 iframe {
+    width: 100%;
+    height: 400px;
+
+}
