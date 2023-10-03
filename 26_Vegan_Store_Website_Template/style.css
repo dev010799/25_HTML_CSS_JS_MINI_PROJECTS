@@ -805,3 +805,11 @@ flex-item i {
         padding: 10px 15px;
     }
 }
+
+/*------------Footer----------------*/
+
+footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #232323;
+}
