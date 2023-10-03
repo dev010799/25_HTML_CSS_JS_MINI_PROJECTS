@@ -759,3 +759,49 @@ flex-item i {
     border-radius: 4px;
     background-color: rgb(170, 210, 54);
 }
+
+@media(max-width: 720px) {
+    #section7-address {
+        flex-direction: column;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    #section7-address .right {
+        width: 100%;
+        text-align: center;
+    }
+    #section7-address .left {
+        width: 100%;
+        padding-top: 20px;
+        text-align: center;
+    }
+    .title {
+        margin-top: 10px;
+        font-size: 20px;
+    }
+    .heading {
+        font-weight: 600;
+        font-size: 30px;
+    }
+    .description {
+        font-size: 15px;
+        font-weight: 400;
+    }
+    .left-heading {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .left-lines {
+        font-size: 15px;
+    }
+    .input-box {
+        width: 100%;
+        padding: 14px;
+        font-size: 10px;
+        margin-bottom: 10px;
+    }
+    #btn-1 {
+        font-size: 12px;
+        padding: 10px 15px;
+    }
+}
