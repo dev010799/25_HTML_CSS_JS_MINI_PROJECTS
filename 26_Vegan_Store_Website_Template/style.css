@@ -602,4 +602,8 @@ flex-item i {
 
 .section5-item p {
     color:  #57e3b5;
+    font-size: 16px;
+    letter-spacing: 0.5px;
+    font-style: italic;
+    margin: 0;
 }
