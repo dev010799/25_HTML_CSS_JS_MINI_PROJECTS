@@ -639,5 +639,11 @@ flex-item i {
     color: #8b8b99;
     font-size: 46px;
     font-weight: 500;
+}
 
+#section-6>div {
+    width: 100%;
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: center;
 }
