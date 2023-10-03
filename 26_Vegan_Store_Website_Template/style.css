@@ -749,3 +749,13 @@ flex-item i {
     border: 1px solid #e5e6ec ;
     box-sizing: border-box;
 }
+
+#btn-1 {
+    font-size: 18px;
+    border: 0px;
+    font-weight: 600;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 4px;
+    background-color: rgb(170, 210, 54);
+}
