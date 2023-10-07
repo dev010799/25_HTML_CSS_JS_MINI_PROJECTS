@@ -62,6 +62,17 @@ body {
     display: flex;
     text-decoration: none;
     color: var(--white);
-
 }
+
+.navigation ul li:hover a {
+    color: var(--blue);
+}
+
+.navigation ul li a .icon {
+    position: relative;
+    display: block;
+    min-width: 60px;
+    height: 60px;
+}
+
 
